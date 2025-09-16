@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Em que ano o Corinthians foi fundado?",
+    "options": ["1910", "1920", "1930", "1940"],
+    "correctAnswer": "1910"
+  },
+  {
+    "question": "Qual é o apelido da torcida organizada mais famosa do Corinthians?",
+    "options": ["Gaviões da Fiel", "Mancha Verde", "Torcida Jovem", "Raça Rubro-Negra"],
+    "correctAnswer": "Gaviões da Fiel"
+  },
+  {
+    "question": "Qual estádio é a casa do Corinthians?",
+    "options": ["Morumbi", "Allianz Parque", "Neo Química Arena", "Maracanã"],
+    "correctAnswer": "Neo Química Arena"
+  },
+  {
+    "question": "Quantos títulos mundiais o Corinthians possui?",
+    "options": ["1", "2", "3", "Nenhum"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Quem é o maior artilheiro da história do Corinthians?",
+    "options": ["Sócrates", "Marcelinho Carioca", "Cláudio", "Ronaldo"],
+    "correctAnswer": "Cláudio"
+  },
+  {
+    "question": "Em que ano o Corinthians conquistou seu primeiro Campeonato Brasileiro?",
+    "options": ["1990", "1985", "2000", "1976"],
+    "correctAnswer": "1990"
+  },
+  {
+    "question": "Qual jogador ficou conhecido como 'Doutor' no Corinthians?",
+    "options": ["Sócrates", "Rivelino", "Cássio", "Neto"],
+    "correctAnswer": "Sócrates"
+  },
+  {
+    "question": "Qual foi o adversário do Corinthians na final do Mundial de Clubes de 2012?",
+    "options": ["Chelsea", "Barcelona", "Real Madrid", "Boca Juniors"],
+    "correctAnswer": "Chelsea"
+  },
+  {
+    "question": "Qual cor NÃO faz parte do uniforme tradicional do Corinthians?",
+    "options": ["Preto", "Branco", "Vermelho", "Verde"],
+    "correctAnswer": "Verde"
+  },
+  {
+    "question": "Qual é o mascote oficial do Corinthians?",
+    "options": ["Gavião", "Mosqueteiro", "Porco", "Urubu"],
+    "correctAnswer": "Mosqueteiro"
+  },
+  {
+    "question": "Em que ano o Corinthians foi rebaixado para a Série B?",
+    "options": ["2007", "2005", "2010", "2009"],
+    "correctAnswer": "2007"
+  },
+  {
+    "question": "Qual técnico comandou o Corinthians na conquista da Libertadores em 2012?",
+    "options": ["Tite", "Luxemburgo", "Mano Menezes", "Felipão"],
+    "correctAnswer": "Tite"
+  }
+]
