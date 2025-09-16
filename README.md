@@ -1,81 +1,68 @@
 # 🏆 Quiz App - Vinicius Dias
 
-> Status do Projeto: Concluído ✔️
+Este projeto foi **concluído** ✔️
 
 ---
 
 ### Tabela de Conteúdos
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Demonstração da Aplicação](#demonstração-da-aplicação)
-* [Funcionalidades](#-funcionalidades)
-* [Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-* [Como Rodar o Projeto Localmente](#️-como-rodar-o-projeto-localmente)
-* [Autor](#-autor)
+* [Recursos do App](#recursos-do-app)
+* [Tecnologias](#tecnologias)
+* [Como Rodar](#como-rodar)
+* [Autor](#autor)
 
 ---
 
 ### Descrição do Projeto
-<p align="center">
-Este projeto é um aplicativo de Quiz multiplataforma, com a temática do Corinthians, desenvolvido com React Native e Expo, como projeto final do curso de programação. O aplicativo apresenta um questionário com feedback instantâneo, tela de resultados e a possibilidade de jogar novamente.
-</p>
+
+Este é um aplicativo de quiz sobre o Corinthians, desenvolvido com **React Native** e **Expo**. Ele oferece uma experiência interativa, com perguntas e feedback instantâneo, além de uma tela de resultados e a opção de jogar novamente.
 
 ---
 
-### Demonstração da Aplicação
-<p align="center">
-  <img src=".gif" alt="Demonstração do App" width="300"/>
-</p>
+### 🚀 Recursos do App
 
----
-
-### 🚀 Funcionalidades
-
-- **Quiz Interativo:** Fluxo de perguntas e respostas com validação.
-- **Feedback Visual:** Respostas são marcadas como corretas ou incorretas instantaneamente.
-- **Placar:** Pontuação é calculada e atualizada a cada rodada.
-- **Tela de Resultados:** Ao final do quiz, uma tela exibe a pontuação final.
-- **Jogar Novamente:** O usuário pode reiniciar o quiz a partir da tela de resultados.
-- **Funcionalidade Adicional:** **[Nome da sua nova funcionalidade]** (ex: Cronômetro regressivo por pergunta).
+* **Fluxo de Quiz:** Perguntas e respostas com validação.
+* **Feedback Instantâneo:** As respostas são marcadas como corretas ou incorretas no momento em que são selecionadas.
+* **Pontuação:** O placar é calculado e exibido ao final do quiz.
+* **Reiniciar:** A partir da tela de resultados, é possível iniciar um novo jogo.
+* **Funcionalidade Adicional:** Inclua aqui um recurso extra, como um cronômetro ou um placar de melhores pontuações.
 
 ---
 
 ### 🛠️ Tecnologias Utilizadas
 
-- **[React Native](https://reactnative.dev/)**
-- **[Expo](https://expo.dev/)**
-- **[TypeScript](https://www.typescriptlang.org/)**
+* **[React Native](https://reactnative.dev/)**
+* **[Expo](https://expo.dev/)**
+* **[TypeScript](https://www.typescriptlang.org/)**
 
 ---
 
-### ⚙️ Como Rodar o Projeto Localmente
+### ⚙️ Como Rodar Localmente
 
-```bash
-# 1. Clone o repositório
-$ git clone https://github.com/viniciusviana08/quiz-app.git
+Para executar o projeto na sua máquina, siga os passos abaixo:
 
-# 2. Navegue até o diretório do projeto
-$ cd quiz-app
+1.  **Clone o repositório:**
+    ```bash
+    $ git clone [https://github.com/viniciusviana08/quiz-app.git](https://github.com/viniciusviana08/quiz-app.git)
+    ```
 
-# 3. Instale as dependências
-$ npm install
+2.  **Acesse a pasta do projeto:**
+    ```bash
+    $ cd quiz-app
+    ```
 
-# 4. Inicie o servidor de desenvolvimento
-$ npm start
-```
-Após executar `npm start`, pressione `w` para abrir no navegador ou escaneie o QR Code com o app Expo Go no seu celular.
+3.  **Instale as dependências:**
+    ```bash
+    $ npm install
+    ```
 
----
-
-
-### Demonstração da Nova Funcionalidade
-<p align="center">
-  <img src="link-para-seu-gif-ou-screenshot.png" alt="Demonstração da Nova Funcionalidade" width="300"/>
-</p>
+4.  **Inicie o servidor de desenvolvimento:**
+    ```bash
+    $ npm start
+    ```
 
 ---
 
 ### 👨‍💻 Autor
 
-Desenvolvido por **Vinicius Viana**.
-
-Sob a orientação do **Prof. Rafael Ribas**.
+Desenvolvido por **Vinicius Viana** sob a orientação do **Prof. Rafael Ribas**.
